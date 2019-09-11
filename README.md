@@ -6,10 +6,15 @@ Github is a dropbox for code that allows collaboration
 # Git Commands
 
 git init : create a git repository box
+
 git status : check repository status
+
 rm - rf .git : remove repository
+
 atom . : used to open atom
+
 git add . : used to add current directory
+
 git commit -m "comment" : used to commit to git
 
 # Github Commands
