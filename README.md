@@ -20,18 +20,28 @@ git commit -m "comment" : used to commit to git
 # Github Commands
 
 git push origin master - used to push repository to git
+
 git checkout <commit code> - takes it back to commmit of choice
 
 # Bash Commands
 where am i :  pwd (print working directory)
+
 where can i go : ls -a (show all hidden directory)
+
 go somewhere : cd <location>
+
 make directory : mkdir <directory name>
+
 cd ~ : takes you back home
+
 going back : cd .
+
 going back 2 steps : cd ..
+
 remove files : rm <filename >
+
 remove directory : rm -rf <directory>
+
 create file : touch <file>
 
 # Git ignore
