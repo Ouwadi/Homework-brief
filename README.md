@@ -1,6 +1,7 @@
 # Git Vs Github
 
 Git is a version control system
+
 Github is a dropbox for code that allows collaboration
 
 # Git Commands
